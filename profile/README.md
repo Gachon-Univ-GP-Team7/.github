@@ -1,5 +1,5 @@
 # 자라영(Jarayoung)   
-
+#### [Tech Spec & How to use](https://pear-harp-86c.notion.site/Jarayoung-Wiki-2d38d0302ddb40fb951fe28afe9a7049)
 ---
 영유아 발달 단계 측정을 위한 앱
 
@@ -39,7 +39,7 @@
 Dataset은 AI 허브 자유대화 음성(소아남여, 유아 등 혼합)을 사용했습니다.  
 제이슨 형식의 메타 데이터가 들어가 있으며,
 연령별 데이터의 비율이 달라서 비율을 자체적으로 조정해 사용했습니다.  
-<img width="809" alt="image" src="https://github.com/Gachon-Univ-GP-Team7/Jarayoung/assets/101817814/c2776c9c-5acf-4997-a85d-2671a71d2d53">
+<img width="261" alt="image" src="https://github.com/Gachon-Univ-GP-Team7/.github/assets/101817814/653cb77b-039b-403c-aeb0-e981396a3885">
 음성인식은 **딥러닝**과 **다중회귀** 방법을 사용해서 아이들의 발화 나이를 예측했습니다.   
 전처리 과정은 동일하게 토큰화, 불용어 제거, 임베딩, 분류의 과정을 거쳤습니다.  
 <img width="251" alt="image" src="https://github.com/Gachon-Univ-GP-Team7/Jarayoung/assets/101817814/ba7183ce-ba8a-481b-9cb3-ff3f6e4f4391">
