@@ -56,10 +56,3 @@ Dataset은 AI 허브 자유대화 음성(소아남여, 유아 등 혼합)을 사
 - Openpose API를 영유아 관절 인식에 사용했습니다.
 - 인식된 관절을 바탕으로 유아 행동 인식에는 슬로우패스트 네트워크를 사용하고 있습니다.</br></br></br></br>
 
-
-
-## App View
-<img width="987" alt="image" src="https://github.com/Gachon-Univ-GP-Team7/.github/assets/101817814/5949f9d1-0281-4bcf-a136-933e7ade0312">  
-
-<img width="1195" alt="image" src="https://github.com/Gachon-Univ-GP-Team7/.github/assets/101817814/85331e78-6699-4258-9809-eddcfaf92715">
-
