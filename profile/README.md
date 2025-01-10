@@ -1,5 +1,4 @@
 # 자라영(Jarayoung)   
-#### [Tech Spec & How to use](https://pear-harp-86c.notion.site/Jarayoung-Wiki-2d38d0302ddb40fb951fe28afe9a7049)
 ---
 영유아 발달 단계 측정을 위한 앱
 
